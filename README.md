@@ -1,2 +1,1 @@
-# PHP_My_Cinema
-Epitech_WAC_Semester_1_PHP_My_Cinema
+# Epitech_WAC_semester_1_PHP_my_cinema
